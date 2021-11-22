@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=100&section=header&text=Soomin's world!&animation=blinking&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=100&section=header&text=Soomin's_world!&animation=blinking&fontSize=40)
 
 ### Hi there 👋
 
