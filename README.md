@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=300&section=header&text=ShinSoomin&animation=twinkling&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=300&section=header&text=ShinSoomin&animation=blinking&fontSize=70)
 
 ### Hi there 👋
 
