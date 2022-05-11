@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=So0min's_world!&animation=twinkling%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=So0min's_world!&animation=twinkling%20render&fontSize=60)
 ### Hi there 👋
 
 <!--
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-//![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=100&section=header&text=Soomin's_world!&animation=blinking&fontSize=40)
+
