@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=So0min's_world!&animation=twinkling%20render&fontSize=60)
-### Hi there 👋
+### Hi 👋
 
 <!--
 **kellyssm/kellyssm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
