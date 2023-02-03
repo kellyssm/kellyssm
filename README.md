@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=So0min's_world!&animation=twinkling%20render&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sumin's_world!&animation=twinkling%20render&fontSize=60)
 ### Hi 👋
 
 <!--
