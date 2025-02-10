@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### sumin
+  ### Hi i'm sumin
 ##
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkellyssm&count_bg=%235BE79D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -15,11 +15,11 @@
 
 
 
-
+<h5 align="center"> Tools & language</h5>
 
 ###
 
-  <img align="right" width="30" src="http://play.pokemonshowdown.com/sprites/xyani/snivy.gif" />
+  <img align="right" width="45" src="http://play.pokemonshowdown.com/sprites/xyani/snivy.gif" />
 
 
 <div align="center">
